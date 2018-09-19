@@ -1,7 +1,7 @@
 # SkidNet
 A Minecraft 1.8 Client designed for pvp enhancement on hypixel and multiple practice servers!
 
-The SRC.jar contains the last update before I successfully made the hypixel NoBotLag actually remove the little bugger
+The SRC.rar contains the last update before I successfully made the hypixel NoBotLag actually remove the little bugger
 that flys around ur head and fucks with your pvp.
 
 The password for the jar file is long as fuck and contains multiple charecters used by the linux command line
